@@ -32,3 +32,11 @@ The steps taken to clean the clutter are as follows:
   <br>
 5) Customer Tier Segmentation
 </ul>
+<H2>Power BI Reports</H2>
+<H3><i>Number Profit/Loss Orders</i></H3>
+<img width="1408" height="794" alt="Orders PNL Report" src="https://github.com/user-attachments/assets/b16f184c-c868-472c-a977-0edacd043f42" />
+<p>
+ The <b>Basic</b> Customer Tier contributes approximately 63% in Total Orders. While most of the orders in the Tiers are making a Profit.
+ <br>
+ Average <b>800</b> orders were seen in each month in 2024. To know more, we can do Root Cause Analysis to learn more about the Report.
+</p>
