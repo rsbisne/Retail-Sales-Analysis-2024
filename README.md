@@ -36,7 +36,12 @@ The steps taken to clean the clutter are as follows:
 <H3><i>Number Profit/Loss Orders</i></H3>
 <img width="1408" height="794" alt="Orders PNL Report" src="https://github.com/user-attachments/assets/b16f184c-c868-472c-a977-0edacd043f42" />
 <p>
- The <b>Basic</b> Customer Tier contributes approximately 63% in Total Orders. While most of the orders in the Tiers are making a Profit.
+ The <b>Basic</b> Customer Tier contributes approximately 63% in Total Orders. While most of the orders in the Tiers make a profit.
  <br>
- Average <b>800</b> orders were seen in each month in 2024. To know more, we can do Root Cause Analysis to learn more about the Report.
+ An average of <b>800</b> orders was seen each month in 2024. To learn more, we can conduct a Root Cause Analysis to understand the Report.
+</p>
+<H3><i>Pie Chart Report</i></H3>
+<img width="1435" height="802" alt="Pie Chart Report" src="https://github.com/user-attachments/assets/9392cfa8-8df3-4731-9ace-5cb8f52f3c80" />
+<p>
+ The Pie Chart report helps us to find the most ordered Category, the Best Sales Region, and the Monthly Customer Orders. 
 </p>
